@@ -4,4 +4,4 @@ This program displays a visual of where the international space station is at th
 
 ### API Links:
 - [People API](http://api.open-notify.org/astros.json)
-- [Position API]([API](http://api.open-notify.org/astros.json))
+- [Position API](http://api.open-notify.org/astros.json)
